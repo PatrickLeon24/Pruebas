@@ -1,0 +1,5 @@
+Responsive = que se vea bien en celu xd
+boostrap
+md para ser responsive
+lg
+sm
