@@ -1,0 +1,8 @@
+crtl shift p 
+
+format document
+
+let es para usar variables durante la vida de la funcion 
+variables inmutables :const 
+but.innerHTML= casilla.simbolo
+(para modificar el texto )
